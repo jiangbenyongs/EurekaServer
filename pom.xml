@@ -60,6 +60,7 @@
 
 	<!-- 添加spring boot的 maven 插件 -->
 	<build>
+	<defaultGoal>compile</defaultGoal>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
